@@ -3,7 +3,7 @@ Version:	51481
 Release:	1
 Summary:	Typeset tensors
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tensind
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tensind
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tensind.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tensind.doc.r%{version}.tar.xz
